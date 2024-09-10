@@ -1,0 +1,66 @@
+field_out:
+  total_bases: 0
+strikeout:
+  total_bases: 0
+walk:
+  total_bases: 1
+double:
+  total_bases: 2
+grounded_into_double_play:
+  total_bases: 0
+home_run:
+  total_bases: 4
+single:
+  total_bases: 1
+hit_by_pitch:
+  total_bases: 1
+field_error:
+  total_bases: 0
+triple:
+  total_bases: 3
+force_out:
+  total_bases: 0
+fielders_choice_out:
+  total_bases: 0
+sac_fly:
+  total_bases: 0
+double_play:
+  total_bases: 0
+strikeout_double_play:
+  total_bases: 0
+other_out:
+  total_bases: 0
+sac_bunt:
+  total_bases: 0
+caught_stealing_2b:
+  total_bases: 0
+fielders_choice:
+  total_bases: 0
+caught_stealing_3b:
+  total_bases: 0
+catcher_interf:
+  total_bases: 0
+sac_fly_double_play:
+  total_bases: 0
+caught_stealing_home:
+  total_bases: 0
+wild_pitch:
+  total_bases: 0
+pickoff_1b:
+  total_bases: 0
+pickoff_caught_stealing_2b:
+  total_bases: 0
+pickoff_3b:
+  total_bases: 0
+pickoff_caught_stealing_home:
+  total_bases: 0
+stolen_base_2b:
+  total_bases: 0
+triple_play:
+  total_bases: 0
+stolen_base_3b:
+  total_bases: 0
+pickoff_2b:
+  total_bases: 0
+pickoff_error_3b:
+  total_bases: 0
